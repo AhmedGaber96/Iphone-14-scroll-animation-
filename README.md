@@ -1,5 +1,5 @@
 # Iphone-14-scroll-animation-
-using JS and Scroll Trigger Plugin link :(https://ahmedgaber96.github.io/registration-project/)
+using JS and Scroll Trigger Plugin link :(https://ahmedgaber96.github.io/Iphone-14-scroll-animation-/)
 
 
 
